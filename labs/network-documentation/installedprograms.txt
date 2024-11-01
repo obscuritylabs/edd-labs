@@ -1,0 +1,27 @@
+Name                                                            Version
+Office 16 Click-to-Run Extensibility Component                  16.0.18129.20100
+Office 16 Click-to-Run Licensing Component                      16.0.18129.20116
+Microsoft Update Health Tools                                   3.74.0.0
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33816     14.40.33816
+Java 8 Update 431                                               8.0.4310.10
+Java 8 Update 431 (64-bit)                                      8.0.4310.10
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33816     14.40.33816
+PuTTY release 0.81 (64-bit)                                     0.81.0.0
+Adobe Acrobat (64-bit)                                          24.003.20112
+Update for Windows 10 for x64-based Systems (KB5001716)         8.94.0.0
+Microsoft visual studio code
+Notepad++
+OneDrive
+Wireshark
+Skype
+OneNote
+Git
+Firefox
+CCleaner
+7Zip
+Slack 
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33816  14.40.33816
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33816  14.40.33816
+Slack (Machine - MSI)                                           4.41.96.0
+Zoom Workplace (64-bit)                                         6.2.49050
+Java Auto Updater                                               2.8.431.10
