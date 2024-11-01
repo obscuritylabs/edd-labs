@@ -1,4 +1,4 @@
-# edd Inventory
+# Acme Asset Inventory
 
 ## Bastion Server
 
